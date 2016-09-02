@@ -1,4 +1,0 @@
-/* globals $ */
-$(() => {
-  console.log('ready');
-});
