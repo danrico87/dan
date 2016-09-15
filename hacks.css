@@ -6,4 +6,9 @@
  * - grunt watch
  * - editing the sass
  * - committing your changes
+ pink links   #e4a6de
+.navbar-default .links-container li > a
  */
+.navbar-default .links-container li > a {
+      color: #e4a6de;
+}
