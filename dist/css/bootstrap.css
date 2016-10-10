@@ -7046,13 +7046,21 @@ body {
   margin: 10px 1%;
   font-size: large;
 }
+.buy-now-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buy-now-container a {
+  margin: 0 1%;
+}
 #home section,
 footer {
   text-align: center;
 }
-.form {
+.right-sidebar .form,
+.right-sidebar iframe {
   border: 1px solid #282828;
-  border-radius: 10px;
   padding: 10px 5%;
 }
 .widget-container {
