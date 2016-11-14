@@ -1,7 +1,7 @@
 _gh_pages
 _site
 .ruby-version
-
+*.map
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -27,7 +27,6 @@ _site
 *.sublime-workspace
 nbproject
 Thumbs.db
-
 # Komodo
 .komodotools
 *.komodoproject
@@ -38,3 +37,4 @@ docs/.jekyll-metadata
 # Folders to ignore
 bower_components
 node_modules
+*/**/*.map
